@@ -1,0 +1,19 @@
+body{
+  background: url(http://www.markgray.com.au/images/gallery/large/desert-light.jpg);
+  background-repeat: no-repeat;
+  }
+
+div{
+  background: blue;
+  border-color:  orange;
+  border-width:  4px;
+  border-style: double;
+}
+
+p{
+color: yellow;
+}
+
+span{
+  background-color: black;
+}
