@@ -1,0 +1,49 @@
+h1 {
+  font-family: 'Kaushan Script', cursive;
+  color: black;
+  text-align: center;
+}
+
+.art {
+  margin: auto;
+}
+
+td {
+  height: 300px;
+  padding: 100px;
+  border: .5px solid white;
+}
+
+#one {
+  background-color: #247BA0;
+}
+
+#two {
+  background-color: #70C1B3;
+}
+
+#three {
+  background-color: #B2DBBF;
+}
+
+#fourth {
+  background-color: #F3FFBD;
+}
+
+#fifth {
+  background-color: #FF1654;
+}
+
+#sixth {
+  background-color: #FFA69E;
+}
+
+#seventh {
+  background-color: #DD1C1A;
+}
+
+h2 {
+  font-family: 'Kaushan Script', cursive;
+  color: black;
+  text-align: center;
+}
