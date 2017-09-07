@@ -1,0 +1,27 @@
+h1 {
+  font-family: fantasy;
+  text-align: center;
+  font-weight: bolder;
+}
+
+body{
+  background-color: #a4d6d6;
+  background-image: url(https://i.pinimg.com/736x/f0/52/f7/f052f7c679ac7f44d2a7b472e93091e1--gothic-photography-rose-photography.jpg);
+}
+
+p {
+  font-family: monospace;
+}
+
+body {
+  font-size: 20px;
+  font-weight: 100;
+  font-size: 1.2em;
+  color: green;
+}
+
+#two{
+
+  font-size: 1.4em;
+  color: blue;
+}
